@@ -48,7 +48,7 @@
 	url = https://github.com/samehkhamis/sdl2-ffi.git
 [submodule "extra/threads"]
 	path = extra/threads
-	url = https://github.com/samehkhamis/threads-ffi.git
+	url = https://github.com/samehkhamis/threads.git
 [submodule "extra/graphicsmagick"]
 	path = extra/graphicsmagick
 	url = https://github.com/samehkhamis/graphicsmagick.git
